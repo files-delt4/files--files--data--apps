@@ -1,0 +1,11 @@
+
+repositories = [
+    {
+        "apiUrl": "https://api.github.com/repos/files-delt4/files--files--data--apps/releases",
+        "token": "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"
+    },
+    {
+        "apiUrl": "https://api.github.com/repos/thesthipytat/thearchives/releases",
+        "token": "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"
+    }
+]
